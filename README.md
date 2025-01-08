@@ -1,4 +1,4 @@
-## 👋🏼 Welcome!
+## 👋🏼 Hi! I'm Kyle and welcome to my profile.
 🌱 Data Science & Machine Learning<br>🧑🏽‍🎓 Senior Computer Science Student Specializing in Data Science at the University of Santo Tomas, Philippines
 
 ### My Tech Stack:
